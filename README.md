@@ -1,6 +1,6 @@
 <h1> Weather App </h1>
 
-<a href="https://weather-app-withreactjs.netlify.app/" target="_blank">Live Link</a>
+<a href="https://weather-app-withreactjs.netlify.app/" target="_blank" >Live Link</a>
 
 
 <hr/>
