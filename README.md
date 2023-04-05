@@ -5,3 +5,12 @@
 
 <h2>About The Project</h2>
 
+<ul>
+  <li>Axios</li>
+  <li>UseState</li>
+  <li>UseEffect</li>
+  <li>Yup</li>
+  <li>ContextAPI</li>
+  <li>Formik</li>
+  <li>TailwindCSS</li>
+</ul>
